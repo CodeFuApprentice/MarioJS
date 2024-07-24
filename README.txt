@@ -4,7 +4,7 @@ Based on a Tutorial found on Webtips.dev -
 https://webtips.dev/webtips/phaser/remake-mario-in-phaserjs-part1#prerequisites
 Not completely my own creation, and is my 1st attempt at creating a game using HTML, CSS, Javascript, and using the Phaser Framework for Javascript.
 
-Project coded by CodeFuMinion.
+Project coded by CodeFuApprentice.
 
 Note: Although functional, this short game isn't complete. I have yet to implement the end of level flag as typically seen in the NES game Super Mario Bros by Nintendo.
 

@@ -2,7 +2,7 @@ Instructions to follow for running this little demo game.
 Inspired by Super Mario Bros. 
 Based on a Tutorial found on Webtips.dev -
 https://webtips.dev/webtips/phaser/remake-mario-in-phaserjs-part1#prerequisites
-Not completely my own creation.
+Not completely my own creation, and is my 1st attempt at creating a game using HTML, CSS, Javascript, and using the Phaser Framework for Javascript.
 
 Project coded by CodeFuMinion.
 
